@@ -7,6 +7,10 @@ title: Caoyuan
 subtitle: CaoYuan&#39;s blog
 description: Welcome to the CaoYuan&#39;s blog!This blog is dedicated to a wide variety of topics including quantitative trading, artificial intelligence, machine learning, blockchain, virtual reality and the Internet of Things.
 keywords:
+  - quantitative trading
+  - machine learning
+  - blockchain
+  - virtual reality
 author: cy
 language: en
 timezone: Asia/Hong_Kong
@@ -29,10 +33,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-  - quantitative trading
-  - machine learning
-  - blockchain
-  - virtual reality
+  - googledaba3bcb44e9d978.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
