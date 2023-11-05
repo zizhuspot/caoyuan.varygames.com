@@ -13,7 +13,7 @@ tags:
   - network
   - selenium
 description: Crawler you are still using selenium, out! Take you to recognize a new domestic crawler framework, absolutely nice, absolutely simple and lightweight!
-cover: https://s2.loli.net/2023/11/05/IYKOjTgmr6WFvSw.webp
+cover: https://s2.loli.net/2023/11/05/9GwreVuUODIEtPd.png
 ---
 
 ### Synopsis
