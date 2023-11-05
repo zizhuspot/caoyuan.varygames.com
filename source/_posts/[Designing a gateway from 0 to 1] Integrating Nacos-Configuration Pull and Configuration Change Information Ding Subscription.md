@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] Integrating Nacos-Configuration Pull and Configuration Change Information Ding Subscription
+title: Designing a gateway from 0 to 1 Integrating Nacos-Configuration Pull and Configuration Change Information Ding Subscription
 date: 2023-11-05 21:12:00
 categories: 
   - java
