@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] How to design a stable gateway
+title: Designing a gateway from 0 to 1 How to design a stable gateway
 date: 2023-11-05 12:12:00
 categories: 
   - java
