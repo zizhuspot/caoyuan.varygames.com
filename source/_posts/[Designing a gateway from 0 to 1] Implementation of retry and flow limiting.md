@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] Implementation of retry and flow limiting
+title: Designing a gateway from 0 to 1 Implementation of retry and flow limiting
 date: 2023-11-05 18:12:00
 categories: 
   - java
