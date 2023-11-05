@@ -1,5 +1,5 @@
 ---
-title: [Designing a Gateway from 0 to 1] Filter Chain Implementation - Implementing a Load Balancing Filter
+title: Designing a Gateway from 0 to 1 Filter Chain Implementation - Implementing a Load Balancing Filter
 date: 2023-11-05 16:12:00
 categories: 
   - java
