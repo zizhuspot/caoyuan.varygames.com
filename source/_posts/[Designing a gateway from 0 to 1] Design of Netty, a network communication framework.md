@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] Design of Netty, a network communication framework
+title: Designing a gateway from 0 to 1 Design of Netty, a network communication framework
 date: 2023-11-05 15:12:00
 categories: 
   - java
