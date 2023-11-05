@@ -1,5 +1,5 @@
 ---
-title: Designing a gateway from 0 to 1: Architecture construction of a self-developed gateway
+title: Designing a gateway from 0 to 1 Architecture construction of a self-developed gateway
 date: 2023-11-05 13:12:00
 categories: 
   - java
