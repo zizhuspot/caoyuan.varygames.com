@@ -1,5 +1,5 @@
 ---
-title: [Designing a Gateway from 0 to 1] Filter Chain Implementation - Route Forwarding Filters
+title: Designing a Gateway from 0 to 1 Filter Chain Implementation - Route Forwarding Filters
 date: 2023-11-05 17:12:00
 categories: 
   - java
