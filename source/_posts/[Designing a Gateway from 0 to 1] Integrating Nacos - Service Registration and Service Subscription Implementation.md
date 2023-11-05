@@ -1,5 +1,5 @@
 ---
-title: [Designing a Gateway from 0 to 1] Integrating Nacos - Service Registration and Service Subscription Implementation
+title: Designing a Gateway from 0 to 1 Integrating Nacos - Service Registration and Service Subscription Implementation
 date: 2023-11-05 20:12:00
 categories: 
   - java
