@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] Implementing fusion degradation based on Hystrix
+title: Designing a gateway from 0 to 1 Implementing fusion degradation based on Hystrix
 date: 2023-11-05 19:12:00
 categories: 
   - java
