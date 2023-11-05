@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] What is a gateway And why do you need to develop your own gateway
+title: Designing a gateway from 0 to 1 What is a gateway And why do you need to develop your own gateway
 date: 2023-11-05 11:12:00
 categories: 
   - java
