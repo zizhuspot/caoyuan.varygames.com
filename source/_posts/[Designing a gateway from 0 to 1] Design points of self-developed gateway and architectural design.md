@@ -1,5 +1,5 @@
 ---
-title: [Designing a gateway from 0 to 1] Design points of self-developed gateway and architectural design
+title: Designing a gateway from 0 to 1 Design points of self-developed gateway and architectural design
 date: 2023-11-05 14:12:00
 categories: 
   - java
